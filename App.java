@@ -1,7 +1,8 @@
 public class App {
 
-  public static void main(String[] args) {
+  public static String main(String[] args) {
     var str1 = "hello world!";
-    System.out.println(str1);
+    // System.out.println(str1);
+    return str1;
   }
 }
