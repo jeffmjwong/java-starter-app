@@ -1,8 +1,6 @@
 public class Main {
 
-  public static String main(String[] args) {
-    var str1 = "hello world!";
-    // System.out.println(str1);
-    return str1;
+  public static void main(String[] args) {
+    System.out.println("Hello world!!");
   }
 }
