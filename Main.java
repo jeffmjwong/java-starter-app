@@ -1,4 +1,4 @@
-public class App {
+public class Main {
 
   public static String main(String[] args) {
     var str1 = "hello world!";
