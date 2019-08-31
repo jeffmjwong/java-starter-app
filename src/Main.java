@@ -2,6 +2,9 @@ package src;
 
 public class Main {
   public static void main(String[] args) {
+    boolean isLoggedIn = true;
+    System.out.println(isLoggedIn);
+
     int var1 = 5;
     System.out.println(var1);
 
