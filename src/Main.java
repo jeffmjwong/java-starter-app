@@ -2,9 +2,10 @@ package src;
 
 public class Main {
   public static void main(String[] args) {
-    final int number1 = 5;
-    System.out.println("Hello world one!"); // This is a comment
-    System.out.println("Hello world two!");
-    System.out.println(number1);
+    int var1 = 5;
+    System.out.println(var1);
+
+    int var2 = 10;
+    System.out.println(var2);
   }
 }
