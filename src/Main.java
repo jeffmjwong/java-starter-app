@@ -2,9 +2,11 @@ package src;
 
 public class Main {
   public static void main(String[] args) {
-    long var1 = 13;
+    long var1 = 21;
     short var2 = 5;
     float var3 = 20.2f;
+
+    System.out.println(var1 > var3);
 
     short result1 = (short) (var3 - var1);
 
