@@ -2,11 +2,11 @@ package src;
 
 public class Main {
   public static void main(String[] args) {
-    long var1 = 21;
-    double var2 = 20.0;
-    float var3 = 20.0f;
+    int num1 = 10;
+    int num2 = 20;
+    int num3 = 30;
 
-    if (var1 < var2) {
+    if (num3 > num2 && num3 < num1) {
       System.out.println("booyah!");
     } else {
       System.out.println("hmm...");
