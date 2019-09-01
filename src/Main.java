@@ -7,7 +7,7 @@ public class Main {
     float var3 = 20.0f;
 
     System.out.println(var1 > var3);
-    System.out.println(var2 == var3);
+    System.out.println(var1 == var3 ? "booyah" : "lol");
 
     // BigDecimal var3 = new BigDecimal("2.15");
     // BigDecimal var4 = new BigDecimal("1.1");
